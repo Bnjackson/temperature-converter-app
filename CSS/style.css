@@ -39,3 +39,10 @@ TEMPERATURE CONVERTER
     border-radius: 10px;
     border-style: none;
 }
+
+@media only screen and (min-width: 1000px) {
+    .container {
+        width: 45%;
+        margin: 0 auto;
+    }
+}
